@@ -36,5 +36,5 @@ Algoritmo moneda
 	FinSi
 	
 	// Mensaje final
-	Escribir "Conversión exitosa."
+	Escribir "Conversión realizada."
 FinAlgoritmo
